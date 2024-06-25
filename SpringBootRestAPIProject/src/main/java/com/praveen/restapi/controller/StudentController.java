@@ -1,4 +1,4 @@
-package com.preetha.restapi.controller;
+package com.praveen.restapi.controller;
 
 import java.util.List;
 
