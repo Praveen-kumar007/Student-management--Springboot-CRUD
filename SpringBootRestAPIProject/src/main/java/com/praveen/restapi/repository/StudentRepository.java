@@ -2,7 +2,7 @@ package com.praveen.restapi.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.preetha.restapi.entity.Student;
+import com.praveen.restapi.entity.Student;
 
 public interface StudentRepository extends JpaRepository<Student, Integer>{
 
