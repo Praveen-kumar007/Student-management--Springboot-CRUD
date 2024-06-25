@@ -1,4 +1,4 @@
-package com.preetha.restapi.repository;
+package com.praveen.restapi.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
