@@ -1,4 +1,4 @@
-package com.preetha.restapi.entity;
+package com.praveen.restapi.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
