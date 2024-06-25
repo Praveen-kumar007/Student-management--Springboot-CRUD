@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.preetha.restapi.entity.Student;
-import com.preetha.restapi.repository.StudentRepository;
+import com.praveen.restapi.entity.Student;
+import com.praveen.restapi.repository.StudentRepository;
 
 @RestController
 public class StudentController {
